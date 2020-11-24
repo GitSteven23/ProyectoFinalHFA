@@ -1,0 +1,6 @@
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\bin\Debug\BLL.dll
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\bin\Debug\BLL.pdb
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\obj\Debug\BLL.dll
+C:\Users\steve\Documents\GitHub U\ProyectoFinal\HFA\BLL\obj\Debug\BLL.pdb
